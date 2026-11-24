@@ -5,6 +5,7 @@
 - [x] Create a branch and a new file
 - [x] Add headings
 - [x] Add a task list
+- [x] Add a code example
 
 ## Review
 
