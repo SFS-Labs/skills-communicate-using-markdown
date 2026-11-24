@@ -3,8 +3,8 @@
 ## Morning Planning
 
 - [x] Create a branch and a new file
-- [ ] Add a task list
-- [ ] Add a code example
+- [x] Add a task list
+- [x] Add a code example
 
 ## Review
 
